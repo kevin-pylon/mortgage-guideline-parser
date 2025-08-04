@@ -1,0 +1,1 @@
+aws s3api put-object --bucket pylon-build-artifacts --key fnma_selling_guide --body $@

@@ -1,0 +1,98 @@
+MORTGAGE LENDING RULES - CONVENTIONAL LOAN PROGRAM
+
+LENDER: ABC Bank
+PROGRAM: Conventional Loan
+EFFECTIVE DATE: January 1, 2024
+
+CREDIT SCORE REQUIREMENTS
+- Minimum credit score: 620
+- Preferred credit score: 700 or higher
+- Credit history must be at least 2 years
+- No bankruptcy within the last 7 years
+- No foreclosure within the last 7 years
+
+INCOME REQUIREMENTS
+- Minimum employment history: 2 years
+- Stable employment required
+- Self-employed borrowers must provide 2 years of tax returns
+- Income must be verifiable through pay stubs and W-2 forms
+- Overtime and bonus income must have 2-year history
+
+DEBT-TO-INCOME RATIO (DTI)
+- Maximum front-end DTI: 28%
+- Maximum back-end DTI: 36%
+- For borrowers with credit scores above 700, DTI can be up to 43%
+
+DOWN PAYMENT REQUIREMENTS
+- Minimum down payment: 5% of purchase price
+- For loans above $726,200 (high-cost areas): 10% down payment required
+- Down payment must be from borrower's own funds
+- Gift funds allowed up to 100% of down payment with proper documentation
+
+PROPERTY REQUIREMENTS
+- Property must be owner-occupied
+- Primary residence only
+- Property must meet minimum property standards
+- Appraisal required for all transactions
+- Property must be in good condition
+
+LOAN AMOUNT LIMITS
+- Maximum loan amount: $726,200 (standard areas)
+- Maximum loan amount: $1,089,300 (high-cost areas)
+- Jumbo loans available for qualified borrowers
+
+RESERVE REQUIREMENTS
+- Minimum 2 months of PITI in reserves
+- For borrowers with DTI above 36%: 6 months reserves required
+- Reserves must be in liquid accounts
+
+DOCUMENTATION REQUIREMENTS
+- Complete loan application (1003)
+- Pay stubs for last 30 days
+- W-2 forms for last 2 years
+- Bank statements for last 2 months
+- Tax returns for last 2 years
+- Credit report
+- Appraisal report
+- Title report
+
+EMPLOYMENT VERIFICATION
+- Employment verification required
+- Self-employed borrowers: business license and tax returns
+- Part-time income must have 2-year history
+- Seasonal employment not acceptable
+
+PROPERTY TYPE RESTRICTIONS
+- Single-family homes
+- Townhouses
+- Condominiums (must be warrantable)
+- 2-4 unit properties (owner must occupy one unit)
+- No manufactured homes unless on permanent foundation
+
+OCCUPANCY REQUIREMENTS
+- Primary residence only
+- No investment properties
+- No second homes
+- Borrower must occupy within 60 days of closing
+
+ADDITIONAL REQUIREMENTS
+- No prepayment penalties
+- Escrow account required for taxes and insurance
+- Private mortgage insurance (PMI) required for loans with less than 20% down payment
+- PMI can be removed when LTV reaches 78%
+- Rate lock period: 30 days
+- Rate lock extension fee: 0.25% of loan amount
+
+DISQUALIFYING FACTORS
+- Active bankruptcy
+- Recent foreclosure (within 7 years)
+- Recent short sale (within 4 years)
+- Unpaid collections
+- Outstanding judgments
+- Tax liens
+- Child support arrears
+
+EXCEPTIONS
+- Exceptions to these guidelines require underwriter approval
+- Compensating factors may allow for exceptions
+- All exceptions must be documented in loan file 

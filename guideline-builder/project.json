@@ -1,0 +1,41 @@
+{
+  "name": "guideline-builder",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "libs/guideline-builder/src",
+  "projectType": "library",
+  "tags": ["scope:backend"],
+  "// targets": "to see all targets run: nx show project guideline-builder --web",
+  "targets": {
+    "pull-fnma": {
+      "executor": "nx:run-commands",
+      "cache": true,
+      "outputs": ["{projectRoot}/guidelines/fnma/raw/*.html"],
+      "options": {
+        "command": "ts-node --project=libs/guideline-builder/tsconfig.json libs/guideline-builder/src/scripts/pull-fnma-html.ts {projectRoot}/"
+      }
+    },
+    "parse-fnma": {
+      "executor": "nx:run-commands",
+      "cache": true,
+      "inputs": ["{projectRoot}/guidelines/fnma/raw/*.html"],
+      "outputs": ["{projectRoot}/guidelines/fnma/parsed/*.html"],
+      "dependsOn": ["pull-fnma"],
+      "options": {
+        "command": "ts-node --project=libs/guideline-builder/tsconfig.json libs/guideline-builder/src/parsers/fnma-parser.ts {projectRoot}/"
+      }
+    },
+    "whitelist": {
+      "executor": "nx:run-commands",
+      "cache": true,
+      "inputs": [
+        "{projectRoot}/guidelines/fnma/parsed/*.html",
+        "{projectRoot}/src/lib/whitelister.ts"
+      ],
+      "outputs": ["{projectRoot}/guidelines/fnma/whitelisted"],
+      "options": {
+        "command": "ts-node {projectRoot}/src/lib/whitelister.ts {projectRoot}/guidelines/fnma/parsed"
+      },
+      "dependsOn": ["parse-fnma"]
+    }
+  }
+}
